@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: PupVoltzy
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.pupvoltzy.grindrenhancer_0.1.0_iphoneos-arm.deb
-Size: 6134
-MD5sum: 0d1bee84c288fa035a9cfe97c1d2befb
-SHA1: 44a7cd43727f5f8b7f7e829d6a692a092665df7b
-SHA256: 8f66f84dfa7b1fb4e4516b9e3c9610b00ba3ff8eb028a46a32b0f02b214eece3
+Filename: ./debs/com.pupvoltzy.grindrenhancer_0.1.0_iphoneos-arm.deb
+Size: 6140
+MD5sum: 94de807dfdbdf176322ce83316da911d
+SHA1: bbd87a4d2c2fb9d11ec96031ce118bf09aeababb
+SHA256: abd699ca887755ae525a774487253c6886e041877e0f0f6bdc41fecc5ee2d838
 Section: Tweaks
 Description: Enhance your experience using Grindr. Currently supports blocking (some) ads.
 Author: PupVoltzy
-Depiction: https://pupvoltzy.github.io/depections/?p=com.pupvoltzy.grindrenhancer
+Depiction: https://pupvoltzy.github.io/depictions/?p=com.pupvoltzy.grindrenhancer
 Name: Grindr Enhancer
 
