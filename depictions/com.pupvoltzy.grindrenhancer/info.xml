@@ -1,0 +1,14 @@
+<package>
+	<id>com.pupvoltzy.grindrenhancer</id>
+	<name>Grindr Enhancer</name>
+	<version>0.1.0</version>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Enhance your experience using Grindr. Currently supports blocking (some) ads.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
