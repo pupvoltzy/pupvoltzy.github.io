@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: PupVoltzy
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: /Users/george/Repositories/pupvoltzy.github.io/debs/com.pupvoltzy.grindrenhancer_0.1.0_iphoneos-arm.deb
+Filename: debs/com.pupvoltzy.grindrenhancer_0.1.0_iphoneos-arm.deb
 Size: 6134
 MD5sum: 0d1bee84c288fa035a9cfe97c1d2befb
 SHA1: 44a7cd43727f5f8b7f7e829d6a692a092665df7b
